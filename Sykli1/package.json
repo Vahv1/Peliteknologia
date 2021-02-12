@@ -1,0 +1,14 @@
+{
+  "name": "peliprojekti",
+  "version": "1.0.0",
+  "description": "peliprojekti",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.52.0"
+  }
+}
